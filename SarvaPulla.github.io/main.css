@@ -150,7 +150,7 @@
 	margin:3px 0 3px 3px;
 }
 .leaflet-control-search.search-load .search-input {
-	background: url('myres/loader.gif') no-repeat center right #fff;
+	background: url('../myres/loader.gif') no-repeat center right #fff;
 }
 .leaflet-control-search.search-load .search-cancel {
 	visibility:hidden;
@@ -162,7 +162,7 @@
 	position:absolute;
 	right:22px;
 	margin:3px 0;
-	background: url('myres/search-icon.png') no-repeat 0 -46px;
+	background: url('../myres/search-icon.png') no-repeat 0 -46px;
 	text-decoration:none;
 	filter: alpha(opacity=80);
 	opacity: 0.8;		
@@ -186,11 +186,11 @@
 	float:left;
 	width:26px;
 	height:26px;	
-	background: url('myres/search-icon.png') no-repeat 2px 2px;
+	background: url('../myres/search-icon.png') no-repeat 2px 2px;
 	border-radius:4px;
 }
 .leaflet-control-search .search-button:hover {
-	background: url('myres/search-icon.png') no-repeat 2px -22px;
+	background: url('../myres/search-icon.png') no-repeat 2px -22px;
 }
 .leaflet-control-search .search-tooltip {
 	position:absolute;
