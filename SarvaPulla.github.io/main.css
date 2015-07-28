@@ -186,11 +186,11 @@
 	float:left;
 	width:26px;
 	height:26px;	
-	background: url('../images/search-icon.png') no-repeat 2px 2px;
+	background: url('myres/search-icon.png') no-repeat 2px 2px;
 	border-radius:4px;
 }
 .leaflet-control-search .search-button:hover {
-	background: url('../images/search-icon.png') no-repeat 2px -22px;
+	background: url('myres/search-icon.png') no-repeat 2px -22px;
 }
 .leaflet-control-search .search-tooltip {
 	position:absolute;
