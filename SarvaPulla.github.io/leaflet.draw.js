@@ -17,9 +17,9 @@
 	handlers:
 	{circle:{tooltip:{start:"Click and drag to draw circle."}},
 	marker:{tooltip:{start:"Click map to place marker."}},
-	polygon:{tooltip:{start:"Click to start drawing shape.",
+	polygon:{tooltip:{start:"Click to start drawing park.",
 	cont:"Click to continue drawing shape.",end:"Click first point to close this shape."}},
-	polyline:{error:"<strong>Error:</strong> shape edges cannot cross!",tooltip:{start:"Click to start drawing line.",cont:"Click to continue drawing line.",end:"Click last point to finish line."}},
+	polyline:{error:"<strong>Error:</strong> shape edges cannot cross!",tooltip:{start:"Click to start drawing stream.",cont:"Click to continue drawing stream.",end:"Click last point to finish line."}},
 	rectangle:{tooltip:{start:"Click and drag to draw rectangle."}},
 	simpleshape:{tooltip:{end:"Release mouse to finish drawing."}}}},
 	edit:{toolbar:{actions:{save:{title:"Save changes.",text:"Save"},cancel:{title:"Cancel editing, discards all changes.",text:"Cancel"}},
